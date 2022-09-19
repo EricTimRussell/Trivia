@@ -1,0 +1,16 @@
+body {
+  font-family: fantasy;
+  background-color: gainsboro
+}
+
+
+
+.hide {
+  color: gainsboro
+}
+
+.hide:hover {
+  color: red;
+  font-size: large;
+  transition: ease-in 1.5s;
+}
